@@ -14,8 +14,6 @@ import argparse
 class DESCRIPTION:
     Program = "Program: %(prog)s (Draw corplots via Seaborn)"
     Version = "Version: 2022.05.07-15.40"
-    Author = "He JiaZhou, 501814504@QQ.com, Liao Yanwen, lyw@realmeta.cn"
-    Contact = "Contact: ZHOU Yuanjie (ZHOU YJ), libranjie@aliyun.com"
     Description = "%s\n%s\n%s" % (Program, Version, Contact)
 
 
